@@ -5,7 +5,7 @@ Weather Data API is a Spring Boot application that processes weather data from a
 
 This project was developed as part of an internship assessment in February 2026.
 
----
+
 
 ## 🚀 Tech Stack
 - Java
@@ -15,7 +15,6 @@ This project was developed as part of an internship assessment in February 2026.
 - MySQL / Oracle
 - REST API
 
----
 
 ## 📂 Features
 - Read and process weather data from CSV file
@@ -27,7 +26,7 @@ This project was developed as part of an internship assessment in February 2026.
 - Exception handling
 - Layered architecture (Controller, Service, Repository)
 
----
+
 
 ## 📡 API Endpoints
 
@@ -37,7 +36,6 @@ http://localhost:8081/weather/month/5
 ### 🔹 Filter by year
 http://localhost:8081/weather/year/1999/summary
 
----
 
 ## ⚙️ How to Run the Project
 
